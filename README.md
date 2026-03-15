@@ -20,3 +20,7 @@ Machine learning system to predict Gurgaon property prices with analytics dashbo
 
 LinkedIn: www.linkedin.com/in/yajas-5263ba329 
 Email: shivhitayajusuman@gmail.com
+
+![Python](https://img.shields.io/badge/Python-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Data Science](https://img.shields.io/badge/Data%20Science-orange)
